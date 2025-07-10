@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="image">
+    <file>images/Motor_Fw.png</file>
+    <file>images/Motor_Rv.png</file>
+    <file>images/Closed_Fist.png</file>
+    <file>images/Open_Palm.png</file>
+    <file>images/Thumb_Down.png</file>
+    <file>images/Thumb_Up.png</file>
+    <file>images/black_light.png</file>
+    <file>images/blue_light.png</file>
+    <file>images/m_off.png</file>
+    <file>images/m_on.png</file>
+    <file>images/red_light.png</file>
+  </qresource>
+</RCC>
